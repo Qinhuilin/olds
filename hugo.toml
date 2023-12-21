@@ -7,11 +7,6 @@ publishDir = 'docs'
 hasCJKLanguage = true
 summaryLength = 29
 
-[[menu.main]]
-identifier = "post"
-name = "Posts"
-url = "/posts/"
-weight = 60
 canonifyurls = true
 [markup]
 defaultMarkdownHandler = "goldmark"
