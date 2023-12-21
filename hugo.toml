@@ -12,7 +12,7 @@ identifier = "post"
 name = "Posts"
 url = "/posts/"
 weight = 60
-
+canonifyurls = true
 [markup]
 defaultMarkdownHandler = "goldmark"
 [markup.goldmark]
